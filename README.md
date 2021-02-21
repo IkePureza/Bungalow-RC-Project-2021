@@ -18,7 +18,7 @@ Melbourne engineering students passion project to create a RC car and controller
 - RC transceiver – The electronics in the RC car that receives and processes incoming radio signals
  ## Design
  > Top down design approach will be used on this project
- 
+ ![Top down diagram](https://github.com/IkePureza/Bungalow-RC-Project-2021/blob/main/diagram%20(1).svg)
 
 
 
